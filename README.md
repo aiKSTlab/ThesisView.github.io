@@ -1,7 +1,7 @@
 ## Welcome
 ### Department : Department of Electrical and Computer Engineering
 ### Title : Sentence pattern information utilization and Strengthening rules for resolving syntactic ambiguity in Broad Korean dependency Parsing
-
+![page0](http://ailab.iptime.org/sharing/fuzJ52DUi)
 ![page1](https://github.com/aiKSTlab/ThesisView.github.io/blob/master/img/page1.PNG)
 ![page2](https://github.com/aiKSTlab/ThesisView.github.io/blob/master/img/page2.PNG)
 ![page3](https://github.com/aiKSTlab/ThesisView.github.io/blob/master/img/page3.PNG)
