@@ -1,6 +1,6 @@
 ## Welcome
-### Department of Electrical and Computer Engineering
-### Sentence pattern information utilization and Strengthening rules for resolving syntactic ambiguity in Broad Korean dependency Parsing
+### Department : Department of Electrical and Computer Engineering
+### Title : Sentence pattern information utilization and Strengthening rules for resolving syntactic ambiguity in Broad Korean dependency Parsing
 
 ![page1](https://github.com/aiKSTlab/ThesisView.github.io/blob/master/img/page1.PNG)
 ![page1](https://github.com/aiKSTlab/ThesisView.github.io/blob/master/img/page2.PNG)
