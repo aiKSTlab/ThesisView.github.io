@@ -1,12 +1,3 @@
 ## Welcome to GitHub Pages
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![page1](/img/page1.png)
+![page1](https://github.com/aiKSTlab/ThesisView.github.io/tree/master/img/page1.png)
