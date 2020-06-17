@@ -9,4 +9,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-![page1](/img/page1.jpg)
+![page1](/img/page1.png)
